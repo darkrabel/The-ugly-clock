@@ -1,0 +1,28 @@
+
+.container{
+    height:5vh;
+    margin: auto;
+    width: 40vw;
+    border:2px solid red;
+    margin:auto;
+    display: flex;
+    flex-direction: row;
+}
+.hands{
+    width: 100%;
+    overflow: hidden;
+}
+#hour{
+    color:red;
+
+}
+#minute{
+    color: blue;
+
+}
+#second{
+    color:green;
+}
+#milesecond{
+    color:orange;
+}
