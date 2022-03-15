@@ -29,7 +29,7 @@ I'm a full stack learner...
 
 ## Installation
 
-Install my-project with npm
+get my-project with git
 
 ```bash
   git clone git@github.com:darkrabel/The-ugly-clock.git
