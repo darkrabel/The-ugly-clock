@@ -9,6 +9,7 @@
     flex-direction: row;
 }
 .hands{
+    display: inline;
     width: 100%;
     overflow: hidden;
 }

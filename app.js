@@ -21,3 +21,7 @@ setInterval(() => {
 
 
 }, 1);
+let sourcecodebutton = document.getElementById("sourcecode")
+sourcecodebutton.addEventListener("click", () => {
+  document.location.href="https://github.com/darkrabel/The-ugly-clock";
+});
